@@ -1,12 +1,12 @@
 <schemalist>
 	<schema path="/org/enso/launchy/" id="org.enso.launchy" gettext-domain="launchy">
         <key name="columns" type="i">
-            <default>4</default>
+            <default>5</default>
             <summary>The default number of columns</summary>
             <description>Setting this value to 0 will automatically set the number of columns to the best value, based on the screen size.</description>
         </key>
         <key name="rows" type="i">
-            <default>3</default>
+            <default>4</default>
             <summary>The default number of rows</summary>
             <description>Setting this value to 0 will automatically set the number of rows to the best value, based on the screen size.</description>
         </key>
