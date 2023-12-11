@@ -5,7 +5,7 @@
     color: #343844;
 }
 .container {
-    background-color: rgba(39, 108, 177, 0.372);
+    background-color: rgba(255, 255, 255, 0.736);
     border-radius: 8px;
     margin: 10px;
     box-shadow:
@@ -28,6 +28,6 @@
     border: none;
 }
 
-/* .sidebar {
-    background-color: rgba(246, 248, 250, 0.95);
-} */
+.sidebar {
+    background-color: rgba(255, 255, 255, 0.736);
+} 
